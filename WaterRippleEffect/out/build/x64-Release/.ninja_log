@@ -1,0 +1,4 @@
+# ninja log v5
+0	41	6690056689731843	lib/CMakeFiles/WaterRippleEffectLib.dir/src/Engine/WaterRippleEffect.cpp.obj	aac01bb6932556be
+7	210	6690056691406710	app/CMakeFiles/WaterRippleEffectApp.dir/src/main.cpp.obj	b2d20f960f125ede
+42	85	6690056690154892	lib/WaterRippleEffectLib.lib	2345dedbf60dfbbe

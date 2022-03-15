@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/app/CMakeFiles/WaterRippleEffectApp.dir/embed.manifest"

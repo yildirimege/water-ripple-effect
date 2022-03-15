@@ -1,0 +1,8 @@
+C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/lib/CMakeFiles/WaterRippleEffectLib.dir
+C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/app/CMakeFiles/WaterRippleEffectApp.dir
+C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/app/CMakeFiles/edit_cache.dir
+C:/Users/Ege/Desktop/Development/water-ripple-effect/WaterRippleEffect/out/build/x64-Debug/app/CMakeFiles/rebuild_cache.dir
